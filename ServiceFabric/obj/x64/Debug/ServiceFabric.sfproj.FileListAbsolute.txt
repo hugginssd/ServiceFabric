@@ -1,1 +1,2 @@
 C:\Users\Administrator\source\repos\ServiceFabric\obj\x64\Debug\ServiceFabric.sfproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ServiceFabric\ServiceFabric\obj\x64\Debug\ServiceFabric.sfproj.CoreCompileInputs.cache

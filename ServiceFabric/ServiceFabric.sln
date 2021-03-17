@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "ServiceFabric", "ServiceFabric.sfproj", "{12575D39-B449-43A6-A8EC-CBD15BC10FB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingWeb", "..\VotingWeb\VotingWeb.csproj", "{20380CAC-34EC-4DC8-933A-9B10686C9FE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VotingWeb", "..\VotingWeb\VotingWeb.csproj", "{20380CAC-34EC-4DC8-933A-9B10686C9FE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
