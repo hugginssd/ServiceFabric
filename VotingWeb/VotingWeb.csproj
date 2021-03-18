@@ -7,7 +7,7 @@
     <RuntimeIdentifier>win7-x64</RuntimeIdentifier>
     <TargetLatestRuntimePatch>False</TargetLatestRuntimePatch>
     <SignAssembly>false</SignAssembly>
-	  <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+	  <!--<AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>-->
 	  <AspNetCoreModuleName>AspNetCoreModule</AspNetCoreModuleName>
   </PropertyGroup>
 
